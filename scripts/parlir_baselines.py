@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ParliR baselines in one file (BM25 and BGE-M3 are produced elsewhere).
+ParliR baselines in one file (BM25 comes from lucene_index_search/, BGE-M3 from bgem3_retrieve.py).
 
   hybrid   Reciprocal rank fusion of runs:  RRF(d) = sum_r 1/(60 + rank_r(d))
   ce       Hybrid+CE: cross-encoder rerank of the hybrid top-100 (default BAAI/bge-reranker-v2-m3)
