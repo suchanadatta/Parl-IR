@@ -1,6 +1,6 @@
 # ParlIR
 
-**ParlIR** is an test collection for evaluating category-aware retrieval over the record of the European Parliament. It is designed for retrieval and retrieval-augmented generation (RAG) settings where documents that are equally on topic differ in what they can be used to establish. For example, a speech expresses a position of an individual or party, while an adopted text records a decision of Parliament.
+**ParlIR** is a test collection for evaluating category-aware retrieval over the record of the European Parliament. It is designed for retrieval and retrieval-augmented generation (RAG) settings where documents that are equally "on topic" differ in what they can be used to establish. For example, a speech expresses a position of an individual or party, while an adopted text records a decision of Parliament.
 
 ## Overview
 
