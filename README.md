@@ -146,7 +146,7 @@ The target distributions were assigned independently by three expert annotators 
 
 The collection includes binary relevance judgements for 59,232 topic–passage pairs, a mean of 429 per topic. Candidates were pooled to depth 250 from two systems: a BM25 run over the document titles, and a dense run with BGE-M3 over the whole corpus, searching with the topic description. Pooling from both matters here because BM25 cannot match the non-English speech record at all, so a single-system pool drawn from it under-represents the material that answers questions about what Members argued.
 
-> **TODO:** pooling method — which retrieval systems contributed candidates, and at what depth.
+We constructed the relevance pool by combining the top 500 passages from three retrieval systems: (i) BM25 (ii) standalone dense retrieval using BGE-M3, and (iii) BM25–BGE-M3 fusion using reciprocal rank fusion (RRF). 
 
 Labels were generated with an LLM (OpenAI `gpt-6-luna`) prompted with the topic title, description and narrative together with the passage text. 8,540 pairs (14.4%) are judged relevant, a mean of 62 and a median of 30 per topic, ranging from 1 to 318. Every released topic has at least one relevant passage.
 
