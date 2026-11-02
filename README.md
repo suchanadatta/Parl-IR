@@ -57,10 +57,11 @@ no passage states directly.
 
 ### Judgements file
 
-TREC qrels format, one judgement per line:
+TREC qrels format, one judgement per line. Additionally, we keep the category/s 
+of each respective passage.
 
 ```
-topic_id 0 passage_id label
+topic_id  passage_id  relevance_score  doc_category
 ```
 
 `label` is 1 for relevant and 0 for not relevant. The second column is the
