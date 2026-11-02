@@ -1,0 +1,1796 @@
+[
+ {
+  "topic_id": 1,
+  "title": "budget committee meeting on the MFF",
+  "description": "Did the Committee on Budgets hold a meeting on the multiannual financial framework in February, and if so on what date?",
+  "narrative": "Relevant documents establish that a specific Committee on Budgets meeting on the MFF took place and give its date. Procedure files recording the committee stage of an MFF dossier are relevant, as are press releases reporting a BUDG meeting on the MFF. Committee reports and opinions are relevant only where they carry the meeting date. Plenary debates on the MFF are not relevant: they record what was said in the chamber, not whether a committee met.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 1.0,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 2,
+  "title": "Parliament's own annual budget",
+  "description": "What is the annual budget of the European Parliament itself?",
+  "narrative": "Relevant documents give the size of Parliament's own administrative budget, as distinct from the EU budget it votes on. Fact sheets on Parliament's budget and on the EU budgetary procedure are relevant, as are press releases announcing the estimates of Parliament's expenditure for a given year. Adopted texts setting Parliament's section of the budget are relevant. Documents about the EU's overall budget, the MFF, or the discharge procedure are not relevant unless they state Parliament's own figure.",
+  "weights": {
+   "decision": 0.167,
+   "position": 0.0,
+   "proceedings": 0.133,
+   "actors": 0.0,
+   "institution": 0.7
+  }
+ },
+ {
+  "topic_id": 4,
+  "title": "rapporteur for the pharmaceutical legislation revision",
+  "description": "Who is the rapporteur for the revision of the pharmaceutical legislation?",
+  "narrative": "Relevant documents name the Member appointed rapporteur on the pharmaceutical package. The procedure file for the dossier is the authoritative source, since it lists key players. The committee report is relevant where it carries the rapporteur's name, as is the dossier roles section of that Member's MEP profile, which records the same appointment from the person's side with the procedure reference. Speeches on pharmaceutical policy are not relevant: speaking in a debate does not make a Member the rapporteur.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.667,
+   "actors": 0.333,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 5,
+  "title": "committee responsible for 2025/0176(COD)",
+  "description": "Which committee is responsible for procedure 2025/0176(COD)?",
+  "narrative": "Relevant documents identify the lead committee for this procedure reference. The procedure file is authoritative. A committee report or opinion filed under the reference is relevant as corroboration, but an opinion identifies an associated committee rather than the lead one, and should not be read as the answer on its own.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 1.0,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 6,
+  "title": "subject and lead committee of 2025/0012(COD)",
+  "description": "What is procedure 2025/0012(COD) about, and which committee leads on it?",
+  "narrative": "Relevant documents state both the subject matter of the dossier and the committee responsible. The procedure file carries both. Press releases describing the proposal are relevant for subject matter only. Documents concerning other procedures on a similar topic are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 1.0,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 7,
+  "title": "AI Act rapporteurs in IMCO and LIBE",
+  "description": "Who was the rapporteur for the Artificial Intelligence Act in the IMCO and LIBE committees?",
+  "narrative": "Relevant documents name the co-rapporteurs for the AI Act in the two jointly responsible committees. The procedure file is authoritative; the joint committee report is relevant where it carries both names. The dossier roles sections of the two co-rapporteurs' MEP profiles record the same appointments and are relevant. Documents naming shadow rapporteurs, or rapporteurs for opinions from other committees, are not relevant to this topic.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.666,
+   "actors": 0.167,
+   "institution": 0.167
+  }
+ },
+ {
+  "topic_id": 8,
+  "title": "Commission proposal date for the Cyber Resilience Act",
+  "description": "When did the Commission propose the Cyber Resilience Act?",
+  "narrative": "Relevant documents give the date the Commission tabled the proposal. The procedure file records it as the opening event of the dossier. Press releases and debates from the time of the proposal are relevant where they carry the date. Documents about Parliament's later adoption of the act are not relevant: the topic asks for the proposal date, not the adoption date.",
+  "weights": {
+   "decision": 0.167,
+   "position": 0.0,
+   "proceedings": 0.833,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 9,
+  "title": "Critical Raw Materials Act reference and adoption",
+  "description": "What is the procedure reference for the Critical Raw Materials Act, and when did the Parliament adopt it in plenary?",
+  "narrative": "Relevant documents supply the procedure reference, the plenary adoption date, or both. The procedure file is authoritative for the reference and the stage dates; the adopted text carries the reference and the sitting date. Debates on critical raw materials are not relevant unless they record the adoption.",
+  "weights": {
+   "decision": 0.2,
+   "position": 0.033,
+   "proceedings": 0.767,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 10,
+  "title": "MFF 2028-2034 rapporteur and shadows in BUDG",
+  "description": "Who are the rapporteur and shadow rapporteurs for the proposal on the 2028-2034 multiannual financial framework in the Committee on Budgets?",
+  "narrative": "Relevant documents name the rapporteur and the shadow rapporteurs appointed by the political groups for the MFF dossier in BUDG. The procedure file's key players section is authoritative. The dossier roles sections of the MEP profiles of the Members appointed record the same roles, shadow roles included, and are relevant. Documents naming rapporteurs for earlier MFF periods, or for opinions from other committees, are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.667,
+   "actors": 0.333,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 11,
+  "title": "Hohlmeier's February report",
+  "description": "What was the subject of the report Monika Hohlmeier authored as rapporteur in February, and what is its document reference?",
+  "narrative": "Relevant documents identify a committee report with Hohlmeier as rapporteur dated to that February, and give its subject and A-series reference. The report itself is the primary evidence; the corresponding procedure file is relevant where it names her and the document reference. The authored documents and dossier roles sections of her MEP profile index the report and record her role on it, and are relevant. Reports on which she was shadow rapporteur are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.8,
+   "actors": 0.2,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 12,
+  "title": "EGF report with Hohlmeier as shadow",
+  "description": "Which country's application for the European Globalisation Adjustment Fund did the January report on which Hohlmeier was shadow rapporteur concern, and which company was named?",
+  "narrative": "Relevant documents are the EGF mobilisation report for that January, identifying the applicant member state and the company whose workers were affected. The report is the primary evidence. The dossier roles section of her MEP profile records shadow-rapporteur appointments with the procedure reference and is relevant for establishing which report is meant. Other EGF reports from different months or concerning other member states are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.733,
+   "actors": 0.267,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 13,
+  "title": "CSDDD first reading and signature dates",
+  "description": "When did the Parliament adopt its first-reading position on the Corporate Sustainability Due Diligence Directive, and when was the final act signed?",
+  "narrative": "Relevant documents give either date. The procedure file records both events in its stage history and is authoritative. The adopted text carries the sitting date of the first-reading position. Debates and press releases on due diligence are relevant only where they state one of the two dates. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 14,
+  "title": "stage of the asbestos directive",
+  "description": "What is the current stage of the asbestos directive?",
+  "narrative": "Relevant documents state where the asbestos dossier stands in the legislative procedure. The procedure file is authoritative, as it carries the current status. Press releases announcing a vote or an agreement are relevant where they identify the stage reached. Speeches calling for action on asbestos are not relevant: advocacy is not procedural status. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.167,
+   "position": 0.0,
+   "proceedings": 0.833,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 15,
+  "title": "wolf protection amendment: committee and rapporteur",
+  "description": "Which committee is responsible for the wolf protection amendment to the Habitats Directive, and who is the rapporteur?",
+  "narrative": "Relevant documents name the lead committee and the rapporteur for the amendment to the Habitats Directive on the protection status of the wolf. The procedure file is authoritative, and the dossier roles section of the appointed Member's MEP profile records the same role. Written questions and debates about wolves are not relevant to this topic, which asks who is handling the file.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.833,
+   "actors": 0.167,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 16,
+  "title": "reference and vote date for Directive (EU) 2024/1346",
+  "description": "What is the procedure reference of Directive (EU) 2024/1346 on reception conditions for applicants for international protection, and when did the Parliament vote on it?",
+  "narrative": "Relevant documents link the published directive number to its procedure reference, or give the date of Parliament's vote. The procedure file is authoritative for both. The adopted text is relevant as it carries the reference and sitting date. Other instruments in the asylum package are not relevant.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 17,
+  "title": "European Defence Industry Programme rapporteur and committees",
+  "description": "Who is the rapporteur on the European Defence Industry Programme and which committees are responsible?",
+  "narrative": "Relevant documents name the rapporteur and the responsible committees for the EDIP dossier. The procedure file is authoritative, and the dossier roles section of the rapporteur's MEP profile records the same appointment. Debates on European defence industry policy are not relevant unless they identify the rapporteur.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.767,
+   "actors": 0.233,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 18,
+  "title": "written questions tabled by Daniel Freund in 2025",
+  "description": "How many written questions did Daniel Freund table in 2025?",
+  "narrative": "Relevant documents are written questions tabled by this Member during 2025; the answer is a count over them, so each such question is relevant evidence. Questions by other Members, questions he co-signed without tabling, and questions from other years are not relevant. The authored documents section of his MEP profile indexes the questions he tabled and is relevant as a route to them. Debate interventions by the same Member are not relevant: speaking is not tabling a written question.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.567,
+   "proceedings": 0.1,
+   "actors": 0.333,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 19,
+  "title": "Istanbul Convention in 2024 plenary debates",
+  "description": "How many times has the Istanbul Convention come up in plenary debates in 2024?",
+  "narrative": "Relevant documents are plenary debate interventions from 2024 that mention the Istanbul Convention; the answer is a count over them. Verbatim records of sittings are relevant where they carry such mentions. Written questions and motions referring to the Convention are not relevant: the topic asks about plenary debate specifically.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 1.0,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 20,
+  "title": "rule governing motions of censure",
+  "description": "Which rule governs motions of censure against the Commission?",
+  "narrative": "Relevant documents are the Rule of Procedure setting out the motion of censure, and any annex elaborating it. Fact sheets on Parliament's powers of oversight are relevant where they cite the rule number. Debates and press releases about a particular censure motion are not relevant: the topic asks for the governing rule, not an instance of its use.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.2,
+   "actors": 0.0,
+   "institution": 0.8
+  }
+ },
+ {
+  "topic_id": 21,
+  "title": "date of the next European elections",
+  "description": "When are the next European Parliament elections?",
+  "narrative": "Relevant documents state when the next elections to the Parliament fall. Fact sheets on the electoral procedure and on the Parliament's term are relevant. Documents about the conduct or results of past elections are not relevant unless they also fix the date of the next.",
+  "weights": {
+   "decision": 0.033,
+   "position": 0.0,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.9
+  }
+ },
+ {
+  "topic_id": 22,
+  "title": "rapporteur for the pharmaceutical directive revision",
+  "description": "Who is the rapporteur for the pharmaceutical directive revision?",
+  "narrative": "As topic 4, but restricted to the directive rather than the wider package. Relevant documents name the rapporteur for the directive file; the procedure file is authoritative, and the dossier roles section of that Member's MEP profile records the same appointment.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.767,
+   "actors": 0.233,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 23,
+  "title": "Omnibus I",
+  "description": "What is Omnibus I?",
+  "narrative": "Relevant documents explain what the first omnibus simplification package is, which instruments it amends, and what Parliament is doing with it. Procedure files for the omnibus dossiers are relevant, as are press releases describing the package. Debates in which Members argue for or against simplification are relevant only where they describe the content of the package. Documents about later omnibus packages are not relevant.",
+  "weights": {
+   "decision": 0.1,
+   "position": 0.233,
+   "proceedings": 0.667,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 24,
+  "title": "Zovko and Lange on the 2025 EU-US trade deal",
+  "description": "Compare the position of Željana Zovko with that of Bernd Lange on the 2025 EU-US trade deal.",
+  "narrative": "Relevant documents record what either named Member said about the EU-US trade deal: plenary speeches, written questions they tabled, and press releases quoting them directly. The authored documents sections of the two Members' MEP profiles index their interventions and questions and are relevant as a route to them. Statements by other Members, including others from the same political groups, are not relevant. Adopted resolutions on EU-US trade are not relevant either: they express Parliament's position, not an individual Member's.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.7,
+   "proceedings": 0.1,
+   "actors": 0.2,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 25,
+  "title": "debates and votes of the last plenary sitting",
+  "description": "Summarise the main debates and votes of the last plenary sitting.",
+  "narrative": "Relevant documents are the debate interventions, adopted texts and press releases belonging to one named sitting. Material from other sittings is not relevant.",
+  "weights": {
+   "decision": 0.233,
+   "position": 0.167,
+   "proceedings": 0.6,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 26,
+  "title": "mandate of the NGO funding scrutiny working group",
+  "description": "What is the European Parliament's Scrutiny Working Group on NGO funding, and what is its mandate?",
+  "narrative": "Relevant documents describe the group's composition, remit and terms of reference. Press releases announcing or reporting on the group are relevant, as are debate interventions setting out what it is for. Documents evaluating whether the group is biased or effective are not relevant to its mandate.",
+  "weights": {
+   "decision": 0.167,
+   "position": 0.0,
+   "proceedings": 0.8,
+   "actors": 0.033,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 27,
+  "title": "MEPs on EU-US trade under the second Trump administration",
+  "description": "What have MEPs said in plenary debates during 2025 about changes in EU-US trade under the second Trump administration?",
+  "narrative": "Relevant documents are 2025 plenary interventions addressing EU-US trade relations under the new US administration: tariffs, trade negotiations, retaliation, and the transatlantic relationship as it bears on trade. Speeches from earlier years are not relevant. Adopted resolutions on trade are not relevant: the topic asks what Members said, not what Parliament decided.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.833,
+   "proceedings": 0.167,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 28,
+  "title": "plenary speeches mentioning Iceland in 2025",
+  "description": "List plenary speeches in 2025 in which Iceland was mentioned.",
+  "narrative": "Relevant documents are 2025 plenary debate interventions that mention Iceland, whatever the subject of the debate. Verbatim records of sittings are relevant where the mention falls outside a speech. Written questions and motions mentioning Iceland are not relevant: the topic asks for plenary speeches.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.267,
+   "proceedings": 0.733,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 29,
+  "title": "Parliament's record on nuclear waste disposal",
+  "description": "Give a timeline of the Parliament's debates, resolutions and written questions on nuclear waste disposal.",
+  "narrative": "Relevant documents are dated items of parliamentary activity on nuclear waste management and disposal: plenary debates, motions for resolutions and adopted resolutions, and written questions with their answers. Each contributes one point in the timeline, so a document is relevant if it is both on topic and datable. Documents on nuclear energy generally, without reference to waste, are not relevant.",
+  "weights": {
+   "decision": 0.1,
+   "position": 0.267,
+   "proceedings": 0.566,
+   "actors": 0.067,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 30,
+  "title": "stage of the next MFF in Parliament",
+  "description": "What stage has the proposal for the next multiannual financial framework reached in the Parliament?",
+  "narrative": "Relevant documents state where the MFF proposal stands: the procedure file for the dossier, press releases reporting a committee or plenary step, and debate interventions that record the stage reached. Speeches arguing for particular MFF priorities are not relevant unless they also report procedural progress. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.333,
+   "position": 0.067,
+   "proceedings": 0.6,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 31,
+  "title": "procedure 2025/0176(COD)",
+  "description": "What is procedure 2025/0176(COD)?",
+  "narrative": "Relevant documents identify the dossier behind this reference: its subject, its stage and its key players. The procedure file is authoritative. Committee reports and adopted texts filed under the reference are relevant.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 32,
+  "title": "MEPs speaking most often in support of Ukraine",
+  "description": "Which MEPs have spoken most often in plenary in support of Ukraine, and how is that measured?",
+  "narrative": "Relevant documents are plenary interventions expressing support for Ukraine, attributed to an identifiable Member; the answer aggregates over them, so each supportive speech is relevant evidence. Interventions that mention Ukraine without taking a supportive position are relevant only as counts of participation. The authored documents sections of MEP profiles index each Member's interventions and are relevant as a route to the counts. Adopted resolutions on Ukraine are not relevant: they carry no individual attribution.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.7,
+   "proceedings": 0.1,
+   "actors": 0.2,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 33,
+  "title": "positions on CAP funding distribution",
+  "description": "What positions have MEPs expressed on reforming how CAP funding is distributed?",
+  "narrative": "Relevant documents record Members' stated views on the distribution of agricultural funding: direct payment ceilings, redistribution between large and small farms, convergence between member states, and national envelopes. Plenary speeches and written questions are relevant. Documents describing how the CAP currently works, without a position being taken, are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.867,
+   "proceedings": 0.133,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 34,
+  "title": "Ukraine, Moldova and Georgia accession positions 2024-2025",
+  "description": "Compare the positions expressed by MEPs in the Parliament's 2024-2025 resolutions and debates on EU accession for Ukraine, Moldova and Georgia.",
+  "narrative": "Relevant documents are 2024-2025 motions for resolutions, adopted resolutions and plenary debates on the accession prospects of any of the three countries. Documents covering only one of the three are relevant, since the comparison is assembled across them. Enlargement documents concerning the Western Balkans are not relevant.",
+  "weights": {
+   "decision": 0.067,
+   "position": 0.833,
+   "proceedings": 0.1,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 36,
+  "title": "first-reading positions adopted in 2025",
+  "description": "Which proposed directives did the European Parliament adopt its first-reading position on during 2025?",
+  "narrative": "Relevant documents are adopted texts recording a first-reading position taken during 2025 on a proposal for a directive, and the procedure files that record that stage. Positions on proposals for regulations are not relevant. Legislative resolutions at second reading or on consent are not relevant.",
+  "weights": {
+   "decision": 0.733,
+   "position": 0.0,
+   "proceedings": 0.267,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 37,
+  "title": "group views on European security architecture",
+  "description": "How do the political groups view the future European security architecture after the war in Ukraine, in particular Russia's role and security guarantees for Ukraine?",
+  "narrative": "Relevant documents express a political group's position on post-war European security: motions for resolutions tabled by a group, and plenary speeches by group spokespersons or members speaking for their group. Texts adopted by Parliament as a whole are not relevant, since they state Parliament's position rather than any group's. Documents on defence procurement or military spending are relevant only where they bear on the security architecture.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.933,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 38,
+  "title": "Danish MEPs on relations with the United States",
+  "description": "What have Danish MEPs said in plenary debates since January 2025 about relations with the United States?",
+  "narrative": "Relevant documents are plenary interventions from 2025 onwards by Members elected in Denmark, addressing relations with the United States: trade, security, Arctic and Greenland questions, and transatlantic cooperation. Speeches by Members from other member states are not relevant, nor are Danish Members' speeches on unrelated subjects. A speech record names the speaker and, in its opening chunk, their political group, but never the member state they were elected in, so the political affiliations sections of the MEP profiles identifying Members elected in Denmark are relevant as supporting evidence: without them the speakers cannot be placed by country.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.733,
+   "proceedings": 0.067,
+   "actors": 0.2,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 39,
+  "title": "Digital Services Act debates and milestones",
+  "description": "Give a timeline of debates and key milestones for the Digital Services Act.",
+  "narrative": "Relevant documents are datable events in the DSA's passage: the procedure file's stage history, plenary debates on the proposal, and the adopted text. Documents on the Digital Markets Act or later digital omnibus proposals are not relevant. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.367,
+   "position": 0.0,
+   "proceedings": 0.633,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 40,
+  "title": "EPP and S&D in the Nature Restoration Law debate",
+  "description": "Summarise the positions taken by EPP and S&D speakers in the plenary debate on the Nature Restoration Law.",
+  "narrative": "Relevant documents are plenary interventions on the Nature Restoration Law by Members of the two named groups. Speeches by Members of other groups are not relevant except as context for a reply. The adopted text and the vote result are not relevant: the topic asks what was argued in debate, not what was decided.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.933,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 41,
+  "title": "arguments on the 2040 climate target",
+  "description": "What arguments did MEPs make for and against the 2040 climate target?",
+  "narrative": "Relevant documents are plenary interventions arguing for or against the 2040 greenhouse gas reduction target, including arguments about its level, its feasibility and the flexibilities attached to it. Both supportive and opposing speeches are relevant. The adopted climate law text is not relevant: it records the outcome, not the arguments.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.867,
+   "proceedings": 0.1,
+   "actors": 0.033,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 42,
+  "title": "Parliament's position in the 2023 AI Act trilogue",
+  "description": "What was the Parliament's position on the AI Act during the 2023 trilogue negotiations?",
+  "narrative": "Relevant documents set out the negotiating mandate Parliament took into trilogue in 2023: the procedure file's record of the mandate, press releases reporting the negotiating position, and plenary debates on the mandate. The final adopted text is not relevant, since it reflects the agreement reached rather than Parliament's opening position.",
+  "weights": {
+   "decision": 0.1,
+   "position": 0.0,
+   "proceedings": 0.9,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 43,
+  "title": "minimum age or ban for social media use",
+  "description": "What positions have MEPs expressed on a minimum age or ban for social media use?",
+  "narrative": "Relevant documents record Members' stated views on age limits for social media, including bans for minors and verification requirements. Plenary speeches and written questions are relevant. Documents on platform regulation generally, with no reference to age limits, are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.867,
+   "proceedings": 0.133,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 44,
+  "title": "French MEPs on the current US administration",
+  "description": "What do French MEPs say about the relationship with the current US administration?",
+  "narrative": "Relevant documents are plenary interventions by Members elected in France addressing relations with the United States under the current administration. Speeches by Members from other member states are not relevant. A speech record names the speaker and, in its opening chunk, their political group, but never the member state they were elected in, so the political affiliations sections of the MEP profiles identifying Members elected in France are relevant as supporting evidence: without them the speakers cannot be placed by country.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.7,
+   "proceedings": 0.033,
+   "actors": 0.267,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 45,
+  "title": "MEPs speaking in favour of a federal Europe",
+  "description": "Which MEPs have spoken in favour of a federal Europe, and what did they say?",
+  "narrative": "Relevant documents are plenary interventions advocating a federal or more integrated Union: treaty change towards federalism, a European federation, or transferring competences to the Union level. Speeches opposing federalism are not relevant except where they quote a proponent. Fact sheets on the Union's institutional development are not relevant: the topic asks who argued for it.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.933,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 46,
+  "title": "positions on the EU-Mercosur agreement",
+  "description": "What positions have MEPs taken on the EU-Mercosur agreement?",
+  "narrative": "Relevant documents record Members' stated positions on the Mercosur trade agreement: support, opposition, and conditions such as deforestation safeguards or agricultural protections. Plenary speeches are the primary evidence. Documents on trade policy generally are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.867,
+   "proceedings": 0.133,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 47,
+  "title": "Patriots for Europe on the Migration Pact",
+  "description": "What have MEPs from the Patriots for Europe group said about the Migration Pact?",
+  "narrative": "Relevant documents are statements by Members of that group on the Pact on Migration and Asylum: plenary interventions and written questions they tabled. Statements by Members of other groups are not relevant. The adopted Pact instruments are not relevant: they are Parliament's decision, not the group's position.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.733,
+   "proceedings": 0.1,
+   "actors": 0.167,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 48,
+  "title": "'yes means yes' in the gender-based violence directive",
+  "description": "Does the European Parliament endorse the 'yes means yes' approach, and what did it say in the gender-based violence directive?",
+  "narrative": "Relevant documents establish Parliament's position on a consent-based definition of rape: the adopted directive text and Parliament's first-reading position, the procedure file recording what Parliament sought, and plenary debates on the provision. Members' individual speeches are relevant as evidence of the Parliament's stated position only where they are describing the institution's position rather than their own.",
+  "weights": {
+   "decision": 0.5,
+   "position": 0.067,
+   "proceedings": 0.433,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 49,
+  "title": "group positions on sexual and reproductive health and rights",
+  "description": "What are the positions of the political groups on sexual and reproductive health and rights?",
+  "narrative": "Relevant documents express a group's position on SRHR: motions for resolutions tabled by a group, and plenary speeches by Members speaking for their group. Adopted resolutions are not relevant as evidence of any group's position, although they may show where a majority lay.",
+  "weights": {
+   "decision": 0.033,
+   "position": 0.934,
+   "proceedings": 0.033,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 50,
+  "title": "frozen Russian assets for Ukraine",
+  "description": "What has the Parliament said about frozen Russian assets and their use for Ukraine?",
+  "narrative": "Relevant documents state Parliament's position on immobilised Russian assets and their use for Ukraine's reconstruction or defence: adopted resolutions, motions for resolutions, and plenary debates. Where the question is read strictly as what the institution has said, adopted texts carry the most weight and individual speeches less.",
+  "weights": {
+   "decision": 0.533,
+   "position": 0.3,
+   "proceedings": 0.167,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 51,
+  "title": "Parliament on a US takeover of Greenland",
+  "description": "What is the EU's position on a US takeover of Greenland, according to the Parliament?",
+  "narrative": "Relevant documents record what Parliament has said about US claims on Greenland: adopted resolutions and motions touching on Greenland, Arctic security or territorial integrity, and plenary debates on the subject. Documents on EU-US relations that do not address Greenland are not relevant.",
+  "weights": {
+   "decision": 0.433,
+   "position": 0.267,
+   "proceedings": 0.3,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 52,
+  "title": "Hungary's rule of law and Article 7",
+  "description": "What have MEPs said about Hungary's rule-of-law situation and the Article 7 procedure?",
+  "narrative": "Relevant documents are plenary interventions and motions for resolutions addressing the rule of law in Hungary and the Article 7 TEU procedure against it. Fact sheets explaining how Article 7 works are not relevant here: the topic asks what Members have said about the Hungarian case.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.933,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 53,
+  "title": "national delegations supporting a ceasefire in Gaza",
+  "description": "Which member states' MEPs have most strongly supported a ceasefire in Gaza, and what did they say?",
+  "narrative": "Relevant documents are plenary interventions calling for a ceasefire in Gaza, attributed to Members whose member state can be identified; the answer aggregates by national delegation. Speeches on the Middle East that do not address a ceasefire are not relevant. Adopted resolutions are not relevant: they carry no national attribution. A speech record names the speaker and, in its opening chunk, their political group, but never the member state they were elected in, so the political affiliations sections of the MEP profiles identifying Members and the member state each was elected in are relevant as supporting evidence: without them the speakers cannot be placed by country.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.7,
+   "proceedings": 0.033,
+   "actors": 0.267,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 54,
+  "title": "criticisms of the Digital Omnibus",
+  "description": "What criticisms of the Digital Omnibus proposal have MEPs voiced?",
+  "narrative": "Relevant documents record objections to the digital omnibus simplification package: plenary speeches, written questions, and press releases reporting criticism. Documents supporting the package are relevant only as context. Documents on the earlier omnibus packages are not relevant unless they bear on the digital one.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.8,
+   "proceedings": 0.133,
+   "actors": 0.067,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 55,
+  "title": "Greens' motion on the Iran protests",
+  "description": "What did the Greens argue in their motion on the protests in Iran?",
+  "narrative": "The relevant document is the motion for a resolution tabled by the Greens/EFA group on the protests in Iran, which carries their argument. Motions on the same subject tabled by other groups are not relevant, nor is the joint resolution ultimately adopted, since it reflects a compromise across groups rather than the Greens' own case.",
+  "weights": {
+   "decision": 0.0,
+   "position": 1.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 56,
+  "title": "Parliament on the Common Fisheries Policy",
+  "description": "What has the Parliament said about the Common Fisheries Policy recently?",
+  "narrative": "Relevant documents are recent adopted texts, plenary debates and written questions on the Common Fisheries Policy: quotas, fleet capacity, control, and the policy's reform. Documents on fisheries agreements with third countries are relevant where they bear on the CFP.",
+  "weights": {
+   "decision": 0.467,
+   "position": 0.267,
+   "proceedings": 0.233,
+   "actors": 0.033,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 57,
+  "title": "military spending and the ReArm Europe plan",
+  "description": "What positions have MEPs expressed on the EU's military spending and the ReArm Europe plan?",
+  "narrative": "Relevant documents record Members' positions on increased defence spending and the ReArm Europe initiative: plenary interventions and motions for resolutions. Documents on specific defence industrial programmes are relevant where a position on spending is expressed.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.867,
+   "proceedings": 0.133,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 58,
+  "title": "housing crisis and the housing Commissioner",
+  "description": "What has the Parliament said about the housing crisis and the Commissioner for housing?",
+  "narrative": "Relevant documents address affordable housing as a European problem and the creation of a Commissioner portfolio for it: plenary debates, motions for resolutions, and press releases. Documents on construction or energy efficiency in buildings are not relevant unless they address housing affordability.",
+  "weights": {
+   "decision": 0.367,
+   "position": 0.4,
+   "proceedings": 0.233,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 59,
+  "title": "criticisms of the driving licences directive",
+  "description": "What criticisms and controversies have MEPs raised about the driving licences directive?",
+  "narrative": "Relevant documents record objections to the driving licences directive: medical fitness checks, validity periods, novice driver rules, and mutual recognition. Plenary speeches and written questions are relevant. The adopted directive is not relevant except as the object being criticised.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.8,
+   "proceedings": 0.133,
+   "actors": 0.067,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 60,
+  "title": "written questions on the wolf's protection status",
+  "description": "What has the Parliament said in written questions about the wolf's protection status under the Habitats Directive?",
+  "narrative": "Relevant documents are written questions, with their answers, concerning the conservation status of the wolf and any downgrading of its protection under the Habitats Directive. Plenary debates and the amendment file itself are not relevant: the topic asks specifically about written questions.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.866,
+   "proceedings": 0.067,
+   "actors": 0.067,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 61,
+  "title": "group differences on EU foreign policy",
+  "description": "How do the political groups differ in their approach to EU foreign policy and external relations?",
+  "narrative": "Relevant documents express a group's stance on the conduct of EU external action: motions for resolutions tabled by groups, and plenary interventions by Members speaking for a group on foreign policy questions. The answer aggregates across several policy areas, so documents on any one of them are relevant if a group position is identifiable. Adopted foreign policy resolutions are not relevant as evidence of group positions.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.867,
+   "proceedings": 0.1,
+   "actors": 0.033,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 62,
+  "title": "Polish and German MEPs on the Migration Pact",
+  "description": "Compare the positions of Polish and German MEPs on the Migration Pact.",
+  "narrative": "Relevant documents are plenary interventions on the Pact on Migration and Asylum by Members elected in Poland or Germany. Speeches by Members from other member states are not relevant. Documents about national government positions in the Council are not relevant: the topic asks about Members of the Parliament. A speech record names the speaker and, in its opening chunk, their political group, but never the member state they were elected in, so the political affiliations sections of the MEP profiles identifying Members elected in Poland and in Germany are relevant as supporting evidence: without them the speakers cannot be placed by country.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.7,
+   "proceedings": 0.033,
+   "actors": 0.267,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 63,
+  "title": "S&D and The Left on CSDDD before the final vote",
+  "description": "Compare what the S&D and The Left said about the Corporate Sustainability Due Diligence Directive before the final vote.",
+  "narrative": "Relevant documents are statements by Members of the two named groups on the due diligence directive, dated before the final plenary vote. Statements made after the vote are not relevant. Speeches by Members of other groups are not relevant. The speeches do not state when the final vote was held, so the procedure file for the directive, which records the plenary date, is relevant as supporting evidence: without it the ‘before the final vote’ condition cannot be applied.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.7,
+   "proceedings": 0.3,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 64,
+  "title": "group positions on wealth taxation and a possible majority",
+  "description": "How do the main political groups' stated positions on wealth taxation differ, and which groups could form a majority for it?",
+  "narrative": "Relevant documents state a group's position on taxing wealth: plenary speeches, written questions and motions attributable to a group. The second half of the question is inferential and rests on the same evidence plus group sizes. Documents on corporate or digital taxation are not relevant unless wealth taxation is addressed.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.801,
+   "proceedings": 0.133,
+   "actors": 0.033,
+   "institution": 0.033
+  }
+ },
+ {
+  "topic_id": 65,
+  "title": "Weber and García Pérez on the EU-US tariff dispute",
+  "description": "Compare Manfred Weber's and Iratxe García Pérez's statements on the EU-US tariff dispute.",
+  "narrative": "Relevant documents record statements by either named Member on tariffs between the EU and the United States: plenary interventions and press releases quoting them. The authored documents sections of the two Members' MEP profiles index their interventions and are relevant as a route to them. Statements by other Members of their groups are not relevant, even where made on the group's behalf.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.767,
+   "proceedings": 0.1,
+   "actors": 0.133,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 66,
+  "title": "oversight of the Commission compared with the Council",
+  "description": "Compare the Parliament's oversight over the Commission with its oversight over the Council, and give an example of each.",
+  "narrative": "Relevant documents set out Parliament's scrutiny powers over each institution: fact sheets on parliamentary oversight and the Rules of Procedure governing questions, censure and discharge. For the examples, documents recording an actual exercise of either power are relevant. Documents about scrutiny of agencies or of national governments are not relevant.",
+  "weights": {
+   "decision": 0.067,
+   "position": 0.0,
+   "proceedings": 0.167,
+   "actors": 0.0,
+   "institution": 0.766
+  }
+ },
+ {
+  "topic_id": 67,
+  "title": "shift in the Article 7 debate on Hungary since 2022",
+  "description": "Compare how the Article 7 debate on Hungary has changed since 2022 in the groups' positions.",
+  "narrative": "Relevant documents are dated plenary interventions and motions on Hungary and Article 7 from 2022 onwards, attributable to a political group, so that change over time can be traced. A document is relevant if it fixes a group's position at a point in time. Material before 2022 is not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.933,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 68,
+  "title": "AI Act procedure timeline",
+  "description": "Give the procedure timeline for the Artificial Intelligence Act from the Commission proposal to signature.",
+  "narrative": "The relevant document is the procedure file for the AI Act, whose stage history runs from proposal to signature. Committee reports, the adopted text and press releases are relevant where they fix the date of a stage. Debates on artificial intelligence policy generally are not relevant. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.2,
+   "position": 0.0,
+   "proceedings": 0.8,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 69,
+  "title": "anti-money-laundering package timeline",
+  "description": "Give a timeline of the Parliament's work on the anti-money-laundering package.",
+  "narrative": "Relevant documents are the procedure files for the instruments making up the AML package, together with reports and adopted texts that date a stage. Because the package is several dossiers, documents covering any one of them are relevant. Documents on sanctions enforcement are not relevant unless they form part of the package. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.2,
+   "position": 0.0,
+   "proceedings": 0.8,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 70,
+  "title": "CSDDD milestones to the 2025 omnibus",
+  "description": "What are the milestones of the Corporate Sustainability Due Diligence Directive from proposal to the 2025 omnibus changes?",
+  "narrative": "Relevant documents date the stages of the due diligence directive and of the 2025 omnibus that amended it: the procedure files for both, and press releases reporting each step. Debates about corporate responsibility in general are not relevant. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.2,
+   "position": 0.0,
+   "proceedings": 0.8,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 71,
+  "title": "lead-up to the ReArm Europe plan",
+  "description": "What has been the lead-up to the ReArm Europe plan in the Parliament's record?",
+  "narrative": "Relevant documents trace how the plan arose in Parliament's record: debates and motions on defence readiness and funding preceding it, and press releases marking each step. Documents postdating the plan's announcement are relevant only where they describe its origins. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.1,
+   "proceedings": 0.6,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 72,
+  "title": "Parliament's action on European Citizens' Initiatives",
+  "description": "Give a timeline of the Parliament's action on the European Citizens' Initiatives it has debated recently.",
+  "narrative": "Relevant documents record Parliament's handling of specific initiatives: plenary debates on a successful initiative, and press releases reporting a hearing or a resolution in response. Fact sheets explaining the ECI mechanism are not relevant here; see topic 101. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.333,
+   "position": 0.0,
+   "proceedings": 0.667,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 73,
+  "title": "Cyber Resilience Act first debate and adoption",
+  "description": "When did the Parliament first debate the Cyber Resilience Act and when was it adopted?",
+  "narrative": "Relevant documents fix either date. The procedure file records the stages; the verbatim record of the first debate establishes when it was held. Documents concerning the Commission's proposal date are not relevant to this topic; see topic 8. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.233,
+   "position": 0.0,
+   "proceedings": 0.767,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 74,
+  "title": "files where Parliament changed its position, 2019-2025",
+  "description": "Which files has the Parliament changed its position on between 2019 and 2025? Give one documented example.",
+  "narrative": "Relevant documents evidence a shift in Parliament's stated position on a single file across the period: pairs of adopted texts on the same dossier taking different lines, and debates acknowledging a change of position. A single adopted text is relevant only where a later or earlier one contradicts it.",
+  "weights": {
+   "decision": 0.433,
+   "position": 0.0,
+   "proceedings": 0.567,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 75,
+  "title": "European Media Freedom Act timeline",
+  "description": "Give the timeline of the European Media Freedom Act.",
+  "narrative": "The relevant document is the procedure file for the media freedom regulation, with its stage history. Reports, the adopted text and press releases are relevant where they date a stage. Debates on media pluralism in individual member states are not relevant. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 76,
+  "title": "stage of the Digital Omnibus",
+  "description": "What stage has the Digital Omnibus proposal reached in the Parliament?",
+  "narrative": "Relevant documents report where the digital omnibus stands: its procedure file, and press releases announcing a committee or plenary step. Criticism of the package is not relevant to its stage; see topic 54. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 77,
+  "title": "status of the European Defence Industry Programme",
+  "description": "What is the status of the European Defence Industry Programme?",
+  "narrative": "Relevant documents state the stage reached by the EDIP dossier. The procedure file is authoritative. Debates on European defence industrial policy are not relevant unless they record a procedural step. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.033,
+   "proceedings": 0.667,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 78,
+  "title": "review of the anti-fraud architecture",
+  "description": "What is the state of the review of the anti-fraud architecture?",
+  "narrative": "Relevant documents report on the review of the EU's anti-fraud bodies and rules, including OLAF and the EPPO: the relevant procedure files, press releases, and written questions seeking an update. Documents on individual fraud cases are not relevant. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.267,
+   "position": 0.033,
+   "proceedings": 0.667,
+   "actors": 0.033,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 79,
+  "title": "beneficial owner requirements in the 2024 AML regulation",
+  "description": "What new requirements for beneficial owners are set out in the anti-money- laundering regulation adopted in 2024?",
+  "narrative": "The relevant document is the adopted anti-money-laundering regulation, whose provisions on beneficial ownership identification, thresholds and registers carry the answer. Debates and press releases about the package are not relevant: the topic asks what the adopted text requires.",
+  "weights": {
+   "decision": 1.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 80,
+  "title": "British youth mobility scheme",
+  "description": "What are the latest developments on the British youth mobility scheme?",
+  "narrative": "Relevant documents concern a youth mobility or youth experience scheme between the EU and the United Kingdom: plenary debates, written questions and press releases. Documents on the wider EU-UK relationship are relevant only where the scheme is addressed. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.233,
+   "position": 0.067,
+   "proceedings": 0.633,
+   "actors": 0.067,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 81,
+  "title": "Parliament's work on FIMI",
+  "description": "What is the Parliament discussing on foreign information manipulation and interference (FIMI)?",
+  "narrative": "Relevant documents address foreign interference, disinformation and information manipulation as a subject of parliamentary work: plenary debates, motions for resolutions, and press releases. Documents on platform regulation are relevant only where foreign interference is the concern.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.267,
+   "proceedings": 0.733,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 82,
+  "title": "'whole life cycle' in the Cyber Resilience Act",
+  "description": "How is the 'whole life cycle' of products with digital elements defined for products already on the market under the Cyber Resilience Act?",
+  "narrative": "The relevant document is the adopted Cyber Resilience Act, specifically its provisions on support periods, vulnerability handling and products placed on the market before entry into application. Debates and press releases about the act are not relevant: the topic asks what the text provides.",
+  "weights": {
+   "decision": 1.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 83,
+  "title": "stage of the soil monitoring law",
+  "description": "What stage has the soil monitoring law reached?",
+  "narrative": "Relevant documents state where the soil monitoring dossier stands. The procedure file is authoritative; press releases reporting a vote or provisional agreement are relevant. Debates on soil health are not relevant unless they record a procedural step. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.267,
+   "position": 0.067,
+   "proceedings": 0.666,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 84,
+  "title": "status of the forced labour products ban",
+  "description": "What is the status of the ban on products made with forced labour?",
+  "narrative": "Relevant documents state the stage reached by the forced labour regulation. The procedure file is authoritative. Debates on forced labour or on supply chain due diligence are not relevant unless they record a step in this dossier. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.267,
+   "position": 0.067,
+   "proceedings": 0.666,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 85,
+  "title": "recent sustainability directives",
+  "description": "Which recently adopted EU directives relate to sustainability? Give the three most recent.",
+  "narrative": "Relevant documents are adopted directives on environmental or corporate sustainability, with their adoption dates, and the procedure files establishing those dates. Regulations are not relevant, since the question asks for directives.",
+  "weights": {
+   "decision": 0.667,
+   "position": 0.0,
+   "proceedings": 0.333,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 86,
+  "title": "EPP arguments against wealth taxation",
+  "description": "What are the main arguments EPP Members have made against wealth taxation?",
+  "narrative": "Relevant documents record arguments by EPP Members against taxing wealth: capital flight, double taxation, competence of the member states, administrative cost, or effects on family businesses. Plenary speeches and written questions by EPP Members are relevant. Arguments made by Members of other groups are not relevant, nor are documents stating Parliament's adopted position on taxation.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.933,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 87,
+  "title": "Digital Services Act proposal to adoption",
+  "description": "Give a timeline of the Digital Services Act from proposal to adoption.",
+  "narrative": "The relevant document is the DSA procedure file, with its stage history from the Commission proposal to the final act. Where the file has completed its passage, the adopted text is relevant as evidence that it did: a question about status or history rests partly on the outcome reached.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 88,
+  "title": "plenary on EU-Mercosur in 2025",
+  "description": "What have MEPs said in plenary about the EU-Mercosur agreement during 2025?",
+  "narrative": "Relevant documents are 2025 plenary interventions on the Mercosur agreement: ratification, agricultural safeguards, deforestation and mirror clauses. Speeches from earlier years are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.933,
+   "proceedings": 0.067,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 89,
+  "title": "minimum age for social media",
+  "description": "What positions have MEPs taken on a minimum age for social media use?",
+  "narrative": "Relevant documents record Members' positions on an age threshold for social media access.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.867,
+   "proceedings": 0.133,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 90,
+  "title": "how the European Parliament is elected",
+  "description": "How is the European Parliament elected?",
+  "narrative": "Relevant documents explain the electoral procedure: direct universal suffrage, proportional representation, the five-year term, thresholds, and the differences between national electoral laws. Fact sheets on the electoral procedure and on Parliament's composition are relevant. Debates on reforming the electoral law are not relevant: the topic asks how the system works, not how Members would change it.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 91,
+  "title": "allocation of the EU budget across member states",
+  "description": "How does the EU allocate its budget across member states?",
+  "narrative": "Relevant documents explain how EU expenditure is distributed: the multiannual financial framework headings, cohesion and agricultural allocations, national envelopes, and the concept of net contributors and beneficiaries. Fact sheets on the budget and on cohesion policy are relevant. Documents on Parliament's own budget are not relevant; see topic 2.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 92,
+  "title": "what the Digital Services Act is",
+  "description": "What is the Digital Services Act?",
+  "narrative": "Relevant documents explain the DSA's purpose and main obligations: notice and action, risk assessment for very large platforms, transparency and enforcement. Fact sheets are relevant for the overview, the adopted text for the obligations themselves, and the procedure file for its status. Debates about platform regulation are not relevant to an explanation of what the act is.",
+  "weights": {
+   "decision": 0.4,
+   "position": 0.0,
+   "proceedings": 0.2,
+   "actors": 0.0,
+   "institution": 0.4
+  }
+ },
+ {
+  "topic_id": 93,
+  "title": "Cassis de Dijon principle",
+  "description": "Explain the Cassis de Dijon principle.",
+  "narrative": "Relevant documents explain mutual recognition of goods lawfully marketed in another member state and the grounds on which it may be restricted. Fact sheets on the free movement of goods and the internal market are relevant. The underlying Court judgment is not in the corpus, so documents citing it in passing without explaining it are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 94,
+  "title": "Parliament as a federal-style lower chamber",
+  "description": "Has the European Parliament evolved into a federal-style lower chamber, or does it remain constrained by intergovernmental dominance?",
+  "narrative": "Relevant documents bear on Parliament's institutional powers relative to the Council: codecision and the ordinary legislative procedure, consent and budgetary powers, and the limits on its right of initiative. Fact sheets on Parliament's powers and on the Union's institutional development are relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 95,
+  "title": "the ordinary legislative procedure",
+  "description": "How does the ordinary legislative procedure work?",
+  "narrative": "Relevant documents set out the steps of codecision: Commission proposal, first reading in Parliament and Council, second reading, conciliation, and adoption. Fact sheets on the legislative procedures are relevant, as are the Rules of Procedure governing readings. Procedure files for individual dossiers are not relevant: they show the procedure applied, not how it works in general.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 96,
+  "title": "directives, regulations and transposition",
+  "description": "What is the difference between a directive and a regulation, and how does transposition work?",
+  "narrative": "Relevant documents explain the legal nature of each instrument and the obligation on member states to transpose directives into national law within a deadline. Fact sheets on sources of Union law are relevant. Individual directives and regulations are not relevant: the topic asks about the categories, not instances.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 97,
+  "title": "election of the President and Vice-Presidents",
+  "description": "How are the President and the Vice-Presidents of the European Parliament elected?",
+  "narrative": "Relevant documents set out the election procedure: nomination, the ballot and its rounds, the majority required, the term of office, and the composition of the Bureau. The Rules of Procedure governing these elections are authoritative, with fact sheets on Parliament's organisation as support. Documents reporting a particular election result are not relevant: the topic asks about the procedure.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 98,
+  "title": "Rule 55 of the Rules of Procedure",
+  "description": "What does Rule 55 of the Rules of Procedure cover?",
+  "narrative": "The relevant document is Rule 55 itself. Neighbouring rules are relevant only where they are cross-referenced by it. Fact sheets are not relevant: the topic asks what a specific rule provides.",
+  "weights": {
+   "decision": 0.333,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 0.667
+  }
+ },
+ {
+  "topic_id": 99,
+  "title": "disagreement between Parliament and Council",
+  "description": "What happens when the Parliament and the Council cannot agree on a legislative text?",
+  "narrative": "Relevant documents explain second reading, the Conciliation Committee, the joint text and the consequence of failure, namely that the proposal falls. Fact sheets on the legislative procedure and the Rules of Procedure on conciliation are relevant. Accounts of particular failed dossiers are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 100,
+  "title": "the Article 7 TEU procedure",
+  "description": "How does the Article 7 TEU procedure work, and what role does the Parliament play?",
+  "narrative": "Relevant documents explain the preventive and sanctioning arms of Article 7, the majorities required, and Parliament's power to initiate a reasoned proposal and to give consent. Fact sheets on the protection of Union values are relevant. Documents concerning Hungary or Poland specifically are not relevant here; see topics 52 and 67.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 101,
+  "title": "the European Citizens' Initiative",
+  "description": "What is a European Citizens' Initiative and how does the Parliament deal with one?",
+  "narrative": "Relevant documents explain the instrument, its signature and registration thresholds, and Parliament's handling of a successful initiative through a hearing and a possible resolution. Fact sheets and the Rules of Procedure on public hearings for initiatives are relevant. Documents about particular initiatives are not relevant here; see topic 72.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 102,
+  "title": "delegated acts and objection",
+  "description": "What is a delegated act and how can the Parliament object to one?",
+  "narrative": "Relevant documents explain delegation of power to the Commission, the scrutiny period, and Parliament's power to object or revoke the delegation. Fact sheets on comitology and delegated powers are relevant, as are the Rules of Procedure governing objections. Individual delegated acts are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 103,
+  "title": "trilogues and their treaty basis",
+  "description": "What are trilogues and are they provided for in the Treaties?",
+  "narrative": "Relevant documents explain informal interinstitutional negotiations, who takes part, how a mandate is given, and the fact that trilogues are a practice rather than a treaty procedure. Fact sheets on the legislative procedure and the Rules of Procedure on negotiating mandates are relevant. Accounts of specific negotiations are not relevant; see topic 42.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 104,
+  "title": "rapporteur and shadow rapporteur",
+  "description": "What is the role of a rapporteur and a shadow rapporteur?",
+  "narrative": "Relevant documents explain the appointment and function of a rapporteur, and the shadow rapporteurs appointed by other groups to follow the file. Fact sheets on committee work and the Rules of Procedure on the appointment of rapporteurs are relevant. Documents naming the rapporteur for a particular dossier are not relevant, and nor are the dossier roles sections of MEP profiles: they record particular appointments, not what the role is.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 105,
+  "title": "the budget discharge procedure",
+  "description": "How does the budget discharge procedure work?",
+  "narrative": "Relevant documents explain discharge: the Court of Auditors' report, the Council's recommendation, Parliament's decision to grant, postpone or refuse discharge, and the consequences. Fact sheets on budgetary control are relevant. Discharge decisions for a particular year are relevant only as illustrations.",
+  "weights": {
+   "decision": 0.033,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 0.967
+  }
+ },
+ {
+  "topic_id": 106,
+  "title": "dismissing the Commission",
+  "description": "How can the Parliament dismiss the European Commission?",
+  "narrative": "Relevant documents explain the motion of censure: who may table it, the thresholds, the two-thirds majority required and the consequence of resignation of the whole College. The relevant Rules of Procedure and fact sheets on oversight are relevant. Accounts of particular censure motions are relevant only as illustrations; see topic 20 for the rule reference alone.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.033,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 0.967
+  }
+ },
+ {
+  "topic_id": 107,
+  "title": "allocation of seats among member states",
+  "description": "How are seats in the European Parliament allocated among member states?",
+  "narrative": "Relevant documents explain degressive proportionality, the floor and ceiling per member state, the total number of seats, and how the distribution is revised. Fact sheets on Parliament's composition are relevant. Documents stating one member state's seat count are relevant only where they explain the principle.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.033,
+   "proceedings": 0.033,
+   "actors": 0.0,
+   "institution": 0.934
+  }
+ },
+ {
+  "topic_id": 108,
+  "title": "the Common Agricultural Policy and its funding",
+  "description": "What is the Common Agricultural Policy and how is it funded?",
+  "narrative": "Relevant documents explain the CAP's objectives, its two pillars, and the funds through which it is financed. Fact sheets on agriculture and rural development are relevant. Documents arguing about how CAP money should be distributed are not relevant here; see topic 33.",
+  "weights": {
+   "decision": 0.167,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 0.833
+  }
+ },
+ {
+  "topic_id": 109,
+  "title": "EU economic governance",
+  "description": "Explain the concept of EU economic governance in plain terms.",
+  "narrative": "Relevant documents explain fiscal and macroeconomic coordination: the Stability and Growth Pact, the European Semester, the excessive deficit procedure and the reformed fiscal rules. Fact sheets on economic and monetary union are relevant. Debates on individual country recommendations are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.0,
+   "institution": 1.0
+  }
+ },
+ {
+  "topic_id": 110,
+  "title": "Irish MEPs and their national parties",
+  "description": "Who are the Irish MEPs, and which national party does each belong to?",
+  "narrative": "Relevant documents are the political affiliations sections of the MEP profile for every Member whose recorded country is Ireland, each of which names that Member's national party alongside their European group. Every such Member's profile is relevant; the answer is assembled across them. Profiles of Members from other member states are not relevant, and profiles of former Irish Members are relevant only for the period in which they served.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 1.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 111,
+  "title": "size of the European Parliament",
+  "description": "How many Members does the European Parliament have?",
+  "narrative": "Relevant documents state the total number of seats. The Fact sheet on Parliament's composition is authoritative and gives the figure directly. MEP profiles are relevant only as the set to be counted, and a single profile does not answer the question.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.1,
+   "institution": 0.9
+  }
+ },
+ {
+  "topic_id": 112,
+  "title": "President and Vice-Presidents",
+  "description": "Who is the President of the European Parliament and who are its Vice-Presidents?",
+  "narrative": "Relevant documents name the current holders of these offices. The other roles sections of the MEP profile record Bureau and presidency roles with their periods, and press releases announcing an election to the office are relevant. The Rules of Procedure governing the election are not relevant here: the question asks who holds the office, not how it is filled. An appointment to office is made through Parliament's own business, so documents recording the appointment — press releases, and the minutes of a constitutive meeting — are relevant alongside the profile, where they exist.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.567,
+   "actors": 0.433,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 113,
+  "title": "Members of the S&D group",
+  "description": "Who are the Members of the S&D group?",
+  "narrative": "Relevant documents are the political affiliations sections of the MEP profile for every Member recorded as belonging to the Progressive Alliance of Socialists and Democrats, each of which is relevant evidence. Affiliation periods matter: a Member who has left the group is relevant only for the period recorded. Profiles of Members of other groups are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.067,
+   "actors": 0.933,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 114,
+  "title": "Daniel Freund",
+  "description": "Who is Daniel Freund?",
+  "narrative": "Relevant documents are this Member's own MEP profile sections: biography for date and place of birth and the broad facts, political affiliations for group and national party, committee memberships and delegation memberships for where he sits. Speeches and written questions by him are not relevant to an identity question, though they may be relevant to what he has argued.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.067,
+   "proceedings": 0.0,
+   "actors": 0.933,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 115,
+  "title": "Monika Hohlmeier's political group",
+  "description": "Which political group does Monika Hohlmeier belong to?",
+  "narrative": "The relevant document is the political affiliations section of this Member's MEP profile, which names her European parliamentary group and the period of the affiliation. Her committee and delegation memberships are not relevant to this question.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.067,
+   "actors": 0.933,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 116,
+  "title": "Monika Hohlmeier's national party",
+  "description": "Which national party does Monika Hohlmeier belong to?",
+  "narrative": "The relevant document is the political affiliations section of this Member's MEP profile, which records the national party alongside the European group and names the associated country. The European group alone does not answer the question.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 1.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 117,
+  "title": "Monika Hohlmeier's committee leadership role",
+  "description": "On which committee does Monika Hohlmeier hold a leadership role?",
+  "narrative": "The relevant document is the committee memberships section of this Member's MEP profile, specifically an entry whose recorded role is Chair or Vice-Chair rather than Member or Substitute. Entries recording ordinary membership are not relevant, and nor are her delegation memberships. An appointment to office is made through Parliament's own business, so documents recording the appointment — press releases, and the minutes of a constitutive meeting — are relevant alongside the profile, where they exist.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.167,
+   "actors": 0.833,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 118,
+  "title": "Monika Hohlmeier's substitute committees",
+  "description": "On which committees is Monika Hohlmeier a substitute member?",
+  "narrative": "Relevant documents are the committee memberships entries in this Member's MEP profile whose recorded role is Substitute. Entries recording full membership or a leadership role are not relevant. Where the profile spans several chunks, each chunk carrying a substitute entry is relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.1,
+   "actors": 0.9,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 119,
+  "title": "Monika Hohlmeier's parliamentary terms",
+  "description": "How many parliamentary terms has Monika Hohlmeier served, and which was her first?",
+  "narrative": "Relevant documents establish the span of this Member's service. The biography and political affiliations sections of her MEP profile carry the affiliation periods from which terms can be read. Note that the corpus covers 2019 onwards, so service before the ninth term may be recorded only as a date rather than evidenced by activity.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.067,
+   "actors": 0.933,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 120,
+  "title": "Bernd Lange's country and committee chair",
+  "description": "Which country does Bernd Lange represent, and which committee does he chair?",
+  "narrative": "Relevant documents are this Member's political affiliations section, which names the country associated with his national party, and his committee memberships section, for an entry whose role is Chair. Both halves of the question are answered from his own profile; no other Member's profile is relevant. An appointment to office is made through Parliament's own business, so documents recording the appointment — press releases, and the minutes of a constitutive meeting — are relevant alongside the profile, where they exist.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.167,
+   "actors": 0.833,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 121,
+  "title": "Jordan Bardella's political group",
+  "description": "Which political group does Jordan Bardella sit in?",
+  "narrative": "The relevant document is the political affiliations section of this Member's MEP profile, naming the European parliamentary group and the period. Statements he has made in plenary are not relevant to the question of affiliation.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.067,
+   "actors": 0.933,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 122,
+  "title": "chair of the ENVI Committee",
+  "description": "Who chairs the ENVI Committee?",
+  "narrative": "Relevant documents are committee memberships sections of any MEP profile recording a Chair role for the Committee on the Environment, Climate and Food Safety. The question is keyed to the committee rather than to a person, so the relevant profile must be found by its contents. Entries recording Vice-Chair, Member or Substitute roles on the same committee are not relevant. An appointment to office is made through Parliament's own business, so documents recording the appointment — press releases, and the minutes of a constitutive meeting — are relevant alongside the profile, where they exist.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.333,
+   "actors": 0.667,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 123,
+  "title": "chair of the LIBE Committee",
+  "description": "Who chairs the LIBE Committee?",
+  "narrative": "Relevant documents are committee memberships sections of any MEP profile recording a Chair role for the Committee on Civil Liberties, Justice and Home Affairs. Entries for other roles on that committee, and chair entries for other committees, are not relevant. An appointment to office is made through Parliament's own business, so documents recording the appointment — press releases, and the minutes of a constitutive meeting — are relevant alongside the profile, where they exist.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.333,
+   "actors": 0.667,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 124,
+  "title": "Polish Members of the ECR group",
+  "description": "How many MEPs from Poland sit in the ECR group?",
+  "narrative": "Relevant documents are the political affiliations sections of MEP profiles recording both a national party associated with Poland and membership of the European Conservatives and Reformists; the answer is a count over them. Profiles recording one of the two conditions but not the other are not relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 1.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 126,
+  "title": "largest political group",
+  "description": "Which political group has the most Members, and how many?",
+  "narrative": "Relevant documents establish the relative sizes of the groups. The political affiliations sections of MEP profiles are the enumerable evidence, and a Fact sheet on Parliament's composition is relevant where it gives group strengths directly. A single Member's profile does not answer the question.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.467,
+   "institution": 0.533
+  }
+ },
+ {
+  "topic_id": 127,
+  "title": "Malta's seats",
+  "description": "How many MEPs does Malta have?",
+  "narrative": "Relevant documents give Malta's seat allocation. The Fact sheet on the composition of Parliament and the apportionment of seats is authoritative. MEP profiles recording a Maltese national party are relevant as the set to be counted.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.0,
+   "actors": 0.333,
+   "institution": 0.667
+  }
+ },
+ {
+  "topic_id": 129,
+  "title": "Lynn Boylan's committees",
+  "description": "Which committees is Lynn Boylan a member of?",
+  "narrative": "The relevant document is the committee memberships section of this Member's MEP profile, listing each committee with her role and the period. Delegation memberships are not relevant: delegations are not committees.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.1,
+   "actors": 0.9,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 130,
+  "title": "chair of the Committee on International Trade",
+  "description": "Who is the chair of the Committee on International Trade?",
+  "narrative": "Relevant documents are committee memberships sections of any MEP profile recording a Chair role for the Committee on International Trade (INTA). Entries for other roles on INTA, and chair entries for other committees, are not relevant. An appointment to office is made through Parliament's own business, so documents recording the appointment — press releases, and the minutes of a constitutive meeting — are relevant alongside the profile, where they exist.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.333,
+   "actors": 0.667,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 131,
+  "title": "Hungarian Members of Patriots for Europe",
+  "description": "Which MEPs sit in the Patriots for Europe group from Hungary?",
+  "narrative": "Relevant documents are the political affiliations sections of MEP profiles recording both a Hungarian national party and membership of the Patriots for Europe group. Because the group was formed during the tenth term, affiliation periods matter: profiles recording an earlier group for the same Member are relevant only as context.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.067,
+   "actors": 0.933,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 132,
+  "title": "Seán Kelly's group and national party",
+  "description": "Is Seán Kelly a member of the EPP group, and which national party is he from?",
+  "narrative": "The relevant document is the political affiliations section of this Member's MEP profile, which records both the European group and the national party with its associated country. The question has two halves and one profile section answers both.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.067,
+   "actors": 0.933,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 133,
+  "title": "Monika Hohlmeier's delegations",
+  "description": "Which delegations does Monika Hohlmeier belong to?",
+  "narrative": "The relevant document is the delegation memberships section of this Member's MEP profile, listing each interparliamentary delegation with her role and the period. Committee memberships are not relevant to this question.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.1,
+   "actors": 0.9,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 134,
+  "title": "Lynn Boylan's committee memberships",
+  "description": "Which committees does Lynn Boylan sit on?",
+  "narrative": "The relevant document is the committee memberships section of this Member's MEP profile. This asks the same thing as the preceding topic in different words; the two should be treated as a paraphrase pair rather than as separate information needs.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.0,
+   "proceedings": 0.1,
+   "actors": 0.9,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 135,
+  "title": "most active Members",
+  "description": "Which MEPs were the most active, and by what measure?",
+  "narrative": "Relevant documents support a comparison of parliamentary activity across Members. The authored documents sections of MEP profiles index each Member's interventions and written questions and are the primary evidence; the debate interventions and written questions themselves are relevant as the activity being counted. The question is under-specified as to measure, so documents establishing any defensible measure of activity are relevant.",
+  "weights": {
+   "decision": 0.0,
+   "position": 0.167,
+   "proceedings": 0.2,
+   "actors": 0.633,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 136,
+  "title": "AI Act final plenary vote",
+  "description": "What was the result of the final plenary vote on the Artificial Intelligence Act?",
+  "narrative": "Relevant documents give the outcome of Parliament's final vote on the AI Act and the numbers it carried by. The procedure file for the dossier records the adoption in its stage summary, in the standard form 'adopted by N votes to M, with K abstentions', and is authoritative. Press releases reporting the vote and the sitting minutes announcing the result are relevant. The adopted text itself is relevant as evidence that adoption occurred, but does not carry the tally. How individual Members or groups voted is a different question and is not recorded in this corpus.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 137,
+  "title": "Digital Services Act plenary vote",
+  "description": "What was the vote result on the Digital Services Act in plenary?",
+  "narrative": "Relevant documents give the result of the plenary vote adopting the DSA, with the numbers. The procedure file records it in its stage summary; press releases and sitting minutes reporting the vote are relevant. Documents about the content or later enforcement of the DSA are not relevant to the vote result. Per-group or per-Member breakdowns are not in the corpus.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 138,
+  "title": "von der Leyen's second-term vote",
+  "description": "How many votes did Ursula von der Leyen get in the Parliament's vote on her second term as Commission President?",
+  "narrative": "Relevant documents give the number of votes cast for the candidate in the election of the Commission President, and ideally the threshold required. Press releases reporting the election are the primary evidence; sitting minutes announcing the result are relevant. Debates on the candidate's programme are not relevant: the question asks for the count. The Rules of Procedure governing the election are not relevant here either.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 139,
+  "title": "vote on the von der Leyen II Commission",
+  "description": "What was the result of the Parliament's vote on the von der Leyen II Commission?",
+  "narrative": "Relevant documents record Parliament's consent to the College as a whole, as distinct from the earlier vote on the President alone, with the numbers. Press releases reporting the consent vote and the sitting minutes are relevant, as is the procedure file for the consent procedure. Documents concerning the hearings of individual Commissioners-designate are not relevant to the outcome.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 140,
+  "title": "motion of censure against the Commission",
+  "description": "Did the Parliament adopt the motion of censure against the Commission, and what was the vote?",
+  "narrative": "Relevant documents state whether a motion of censure was carried or rejected and give the numbers. Press releases reporting the vote are the primary evidence, and the sitting minutes record the result. The Rules of Procedure setting out the censure mechanism are not relevant here: the question asks about an instance, not the rule. Where more than one motion was voted on, each result is relevant.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 141,
+  "title": "Corporate Sustainability Reporting Directive final vote",
+  "description": "What was the result of the final vote on the Corporate Sustainability Reporting Directive?",
+  "narrative": "Relevant documents give the outcome and numbers of the final plenary vote on the CSRD. The procedure file records the adoption in its stage summary and is authoritative; press releases and minutes reporting the vote are relevant. Documents about the directive's reporting requirements, or about the later omnibus amendments to it, are not relevant to the vote result.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ },
+ {
+  "topic_id": 143,
+  "title": "Metsola's re-election as President",
+  "description": "How many votes did Roberta Metsola get when she was re-elected President, and who stood against her?",
+  "narrative": "Relevant documents give the number of votes the successful candidate received and name the other candidates. Press releases reporting the election are the primary evidence and usually carry both; sitting minutes announcing the result are relevant. The Rules of Procedure on electing the President are not relevant here. This topic has two halves and a document answering only one of them is still relevant.",
+  "weights": {
+   "decision": 0.3,
+   "position": 0.0,
+   "proceedings": 0.7,
+   "actors": 0.0,
+   "institution": 0.0
+  }
+ }
+]
