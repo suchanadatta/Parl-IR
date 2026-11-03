@@ -1,4 +1,4 @@
-https://mlg.ucd.ie/parl-ir/manifest.tsv<br>
+http://mlg.ucd.ie/parl-ir/manifest.tsv<br>
 http://mlg.ucd.ie/parl-ir/parliview_001.jsonl.gz<br> 
 http://mlg.ucd.ie/parl-ir/parliview_002.jsonl.gz<br>
 http://mlg.ucd.ie/parl-ir/parliview_003.jsonl.gz<br> 
