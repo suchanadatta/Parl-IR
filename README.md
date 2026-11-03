@@ -15,7 +15,7 @@
 
 | File | Format | Contents |
 |---|---|---|
-| `corpus.jsonl` | JSON Lines, one passage per line | 297,279 passages |
+| `corpus/README.md` | JSON Lines, one passage per line | the data corpus across 23 files: 297,279 passages |
 | `topics.json` | JSON array | 138 topics with their target distributions |
 | `qrels.txt` | TREC qrels, space-separated | 59,232 topic–passage judgements |
 | `doc_type_categories.csv` | CSV | mapping from document type to evidence categories |
