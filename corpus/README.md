@@ -1,8 +1,12 @@
 Corpus Files
 
-Manifest
 
-manifest.tsv
+# Test links
+
+[Manifest file](http://mlg.ucd.ie/parl-ir/manifest.tsv)
+
+[ParliView dataset](https://mlg.ucd.ie/parl-ir/parliview_001.jsonl.gz)
+
 
 ParliView Corpus (JSONL.GZ)
 
